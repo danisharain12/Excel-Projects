@@ -1,6 +1,6 @@
 # Excel Data Analysis Projects
 This repository contains three comprehensive Excel projects focusing on data analysis and visualization.
-1. Cars Dataset Analysis
+## 1. Cars Dataset Analysis
 Overview
 An advanced Excel analysis project focusing on automotive data manipulation and insights.
 Key Features
@@ -17,7 +17,7 @@ Converts kilometers to miles
 Calculates annual mileage based on car year through 2024
 Rounds values to 3 decimal places for accuracy
 
-2. Marketing Campaign Analysis
+## 2. Marketing Campaign Analysis
 Overview
 A data-driven analysis of marketing campaign performance focusing on ROI and campaign metrics.
 Key Features
@@ -42,7 +42,7 @@ Cleaned duration metrics
 Normalized acquisition costs
 Automated location extraction from combined fields
 
-3. U.S. Market Dynamics Analysis
+## 3. U.S. Market Dynamics Analysis
 Overview
 A comprehensive analysis of sales data across product categories including Technology, Furniture, and Office Supplies.
 Key Features
@@ -65,17 +65,3 @@ Technology category leadership in profitability
 West region dominance in sales
 Customer preference patterns
 Product-specific performance metrics
-
-Requirements
-
-Microsoft Excel (recommended version not specified)
-Basic understanding of Excel functions and formulas
-Knowledge of Pivot Tables and Charts
-
-Usage
-Each project includes:
-
-Raw data sheets
-Analysis worksheets
-Documentation of formulas and methodologies
-Interactive dashboards where applicable
